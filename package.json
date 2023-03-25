@@ -1,27 +1,21 @@
 {
-  "name": "task-planner",
+  "name": "task-planer-backend",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon src/index.js"
+    "start":"nodemon src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sudarshan441/task-planner.git"
+    "url": "git+https://github.com/sudarshan441/task-planer-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sudarshan441/task-planner/issues"
+    "url": "https://github.com/sudarshan441/task-planer-backend/issues"
   },
-  "homepage": "https://github.com/sudarshan441/task-planner#readme",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "mongoose": "^7.0.3",
-    "nodemon": "^2.0.22"
-  },
-  "description": ""
+  "homepage": "https://github.com/sudarshan441/task-planer-backend#readme"
 }
